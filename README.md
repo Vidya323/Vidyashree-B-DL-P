@@ -3,5 +3,5 @@
 * I am computer science engineering final year student.😊
 * I am interested in programming and problem solving.
 * Always open to learn new things.😇
->My interest lies mainly in web development and machine learning.
+>I am mainly interested in web development and machine learning.
 
